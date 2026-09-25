@@ -6,7 +6,7 @@
 * PyTorch >= 2.1.0+cu118
 * torchvision >= 0.16.0+cu118
 * CUDA 11.8
-* GCC >= 4.9 (Linux) or Visual Studio 2019+ (Windows)
+* Linux
 
 Install dependencies:
 
