@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=9 python tools/train_net.py --config-file  configs/da_faster_rcnn/e2e_da_faster_rcnn_R_50_FPN.yaml
