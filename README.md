@@ -41,7 +41,7 @@ Modify the entries in `DatasetCatalog.DATASETS`, for example:
 
 ```python
 "openset_voc07_0.5": {
-    "data_dir": "D:/datasets/VOCdevkit/VOC2007/",
+    "data_dir": "root/datasets/VOCdevkit/VOC2007/",
     "split": "trainval"
 },
 ```
